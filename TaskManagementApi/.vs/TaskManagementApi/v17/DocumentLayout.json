@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\taskmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\taskmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\migrations\\20241119172917_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\migrations\\20241119172917_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Migrations\\20241119171536_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagementApi\\Migrations\\20241119171536_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\chathusha\\desktop\\work\\task\\taskmanagementapi\\taskmanagementapi\\taskmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17EAD95A-91F1-448F-B2E9-8ABF9807A667}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\taskmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskManagementApi.http",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\TaskManagementApi.http",
+              "RelativeDocumentMoniker": "TaskManagementApi\\TaskManagementApi.http",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\TaskManagementApi.http",
+              "RelativeToolTip": "TaskManagementApi\\TaskManagementApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-20T16:35:38.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241119171536_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Migrations\\20241119171536_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Migrations\\20241119171536_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Migrations\\20241119171536_InitialCreate.cs",
+              "RelativeToolTip": "TaskManagementApi\\Migrations\\20241119171536_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:15:36.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Program.cs",
+              "RelativeToolTip": "TaskManagementApi\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:51:32.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\appsettings.json",
+              "RelativeToolTip": "TaskManagementApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T16:44:59.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Data\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Data\\TaskContext.cs",
+              "RelativeToolTip": "TaskManagementApi\\Data\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:40:06.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementApi\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:04:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementApi\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:01:30.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManagementApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T10:07:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241119172917_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Migrations\\20241119172917_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Migrations\\20241119172917_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Migrations\\20241119172917_InitialCreate.cs",
+              "RelativeToolTip": "TaskManagementApi\\Migrations\\20241119172917_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:29:17.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskManagementApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\TaskManagementApi.csproj",
+              "RelativeDocumentMoniker": "TaskManagementApi\\TaskManagementApi.csproj",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\TaskManagementApi.csproj",
+              "RelativeToolTip": "TaskManagementApi\\TaskManagementApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T16:34:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Chathusha\\Desktop\\work\\task\\TaskManagementApi\\TaskManagementApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TaskManagementApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:04:25.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
